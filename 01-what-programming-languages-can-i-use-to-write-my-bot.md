@@ -1,4 +1,4 @@
-### What programming languages can I use to write my bot?
+## What programming languages can I use to write my bot?
 
 Riddles.io currently supports the following programming languages:
 

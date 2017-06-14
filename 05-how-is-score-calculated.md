@@ -1,4 +1,5 @@
-### How is score calculated?
+## How is score calculated?
 
-[TrueSkill](link: https://en.wikipedia.org/wiki/TrueSkill) is used by default. However,
-some competitions might use ELO or an incremental score as well.
+[TrueSkill](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system)
+is used by default. However, some competitions might use ELO or an incremental
+score as well.

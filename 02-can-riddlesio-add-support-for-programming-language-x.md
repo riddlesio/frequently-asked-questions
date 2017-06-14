@@ -1,4 +1,4 @@
-### Can Riddles.io add support for programming language X?
+## Can Riddles.io add support for programming language X?
 
 Certainly. Riddles.io can add support for any programming language if you 
 open an issue on the [issue tracker](https://github.com/riddlesio/issues/issues) 

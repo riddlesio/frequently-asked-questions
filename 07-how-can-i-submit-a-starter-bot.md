@@ -1,4 +1,4 @@
-### How do I submit a starter bot?
+## How do I submit a starter bot?
 
 You can submit a starter bot for any game by creating an issue on the 
 [issue tracker](https://github.com/riddlesio/issues/issues).
