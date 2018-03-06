@@ -1,0 +1,13 @@
+## How does my bot earn points?
+
+In multiplayer games, your bot will automatically earn points when it's
+activated. You can activate your preferred bot revision on the overview
+page of a competition. After that it will appear on the leaderboard and
+ranked matches are scheduled for your bot against the other activated bots.
+Challenging other bots will not influence the bot's score.
+
+In singleplayer games the bot will earn points by pressing ASSESS NOW on
+the overview page of the competition on your preferred bot revision. A game
+will be played against some secret assessment data.
+The bot revision with the highest score counts and that score will appear
+on the leaderboard.
